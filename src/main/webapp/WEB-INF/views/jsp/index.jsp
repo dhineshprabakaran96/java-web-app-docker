@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>This is my first CI/CD Project.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>DHINESH P</h2>
+			<h3> My first CI/CD Project.</h3>
 		</div>	
 	</div>
 
